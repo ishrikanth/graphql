@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-27T12:37:10.057Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36" etag="Ea9BDwXwVHCl6W5VYg0a" version="13.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-27T12:38:08.968Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36" etag="ter_qandyAc83nI2sTWu" version="13.0.2" type="github">
   <diagram id="xoZPzFlmaSp1hnfD2v14" name="Page-1">
     <mxGraphModel dx="1186" dy="669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -125,10 +125,10 @@
             <mxPoint x="510" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rZ3tqkPkwBDZJlSS5pZd-12" value="&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;Delayed Job&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#D4E1F5;gradientColor=#ea6b66;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="rZ3tqkPkwBDZJlSS5pZd-12" value="Delayed Job" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#D4E1F5;gradientColor=#ea6b66;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="210" y="179" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rZ3tqkPkwBDZJlSS5pZd-13" value="&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;Action Cable/ WebSocket&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#D4E1F5;gradientColor=#d5739d;fillColor=#e6d0de;strokeColor=#996185;" vertex="1" parent="1">
+        <mxCell id="rZ3tqkPkwBDZJlSS5pZd-13" value="Action Cable/ WebSocket" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#D4E1F5;gradientColor=#d5739d;fillColor=#e6d0de;strokeColor=#996185;" vertex="1" parent="1">
           <mxGeometry x="590" y="179" width="160" height="61" as="geometry" />
         </mxCell>
         <mxCell id="rZ3tqkPkwBDZJlSS5pZd-14" value="" style="endArrow=classic;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.113;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="39ve_CgXmUywYCEbx6uL-16" target="rZ3tqkPkwBDZJlSS5pZd-12">
