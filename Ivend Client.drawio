@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-28T12:40:43.577Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36" etag="ELabos_hNd8b3-3amrWd" version="13.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-28T12:44:56.863Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36" etag="JRF9VNUE80nSyIXrNRet" version="13.0.2" type="github">
   <diagram id="xoZPzFlmaSp1hnfD2v14" name="Page-1">
     <mxGraphModel dx="1186" dy="669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -46,7 +46,7 @@
           <mxGeometry x="700" y="480" width="115" height="85" as="geometry" />
         </mxCell>
         <object label="Sourcer&lt;br&gt;Application" id="39ve_CgXmUywYCEbx6uL-4">
-          <mxCell style="whiteSpace=wrap;aspect=fixed;labelBackgroundColor=#ffffff;labelBorderColor=#FFF4C3;html=1;fillColor=#FFF4C3;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxCell style="whiteSpace=wrap;aspect=fixed;labelBackgroundColor=none;labelBorderColor=none;html=1;fillColor=#f8cecc;strokeColor=#b85450;shadow=1;rounded=1;glass=1;gradientColor=none;" parent="1" vertex="1">
             <mxGeometry x="90" y="276.88" width="97.5" height="97.5" as="geometry" />
           </mxCell>
         </object>
@@ -56,8 +56,8 @@
         <mxCell id="39ve_CgXmUywYCEbx6uL-15" value="RabbitMQ" style="rounded=1;whiteSpace=wrap;html=1;gradientColor=#b3b3b3;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="330" y="502.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="39ve_CgXmUywYCEbx6uL-16" value="Ivend Client App" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" vertex="1">
-          <mxGeometry x="520" y="291.25" width="120" height="68.75" as="geometry" />
+        <mxCell id="39ve_CgXmUywYCEbx6uL-16" value="Ivend Client App" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;shadow=1;glass=1;" parent="1" vertex="1">
+          <mxGeometry x="520" y="291.25" width="120" height="78.75" as="geometry" />
         </mxCell>
         <mxCell id="39ve_CgXmUywYCEbx6uL-24" value="" style="endArrow=classic;html=1;exitX=0.992;exitY=0.113;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.036;entryY=0.554;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="39ve_CgXmUywYCEbx6uL-16" target="39ve_CgXmUywYCEbx6uL-8" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -77,13 +77,16 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="39ve_CgXmUywYCEbx6uL-30" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1">
+        <mxCell id="39ve_CgXmUywYCEbx6uL-30" value="" style="endArrow=classic;html=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="221.5" y="327.25" as="sourcePoint" />
-            <mxPoint x="524" y="327.25" as="targetPoint" />
+            <mxPoint x="187.5" y="347.9068393782384" as="sourcePoint" />
+            <mxPoint x="520" y="349" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="380" y="349" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="39ve_CgXmUywYCEbx6uL-31" value="Sync Cabinet Info" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=0;" parent="39ve_CgXmUywYCEbx6uL-30" vertex="1" connectable="0">
+        <mxCell id="39ve_CgXmUywYCEbx6uL-31" value="Sync Cabinet / Product Info" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=0;" parent="39ve_CgXmUywYCEbx6uL-30" vertex="1" connectable="0">
           <mxGeometry x="-0.45" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -123,7 +126,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rZ3tqkPkwBDZJlSS5pZd-5" value="User" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.user;" parent="1" vertex="1">
+        <mxCell id="rZ3tqkPkwBDZJlSS5pZd-5" value="User" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.user;gradientColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="1000" y="402.5" width="70" height="67.5" as="geometry" />
         </mxCell>
         <mxCell id="rZ3tqkPkwBDZJlSS5pZd-6" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.496;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="rZ3tqkPkwBDZJlSS5pZd-5" edge="1">
@@ -154,10 +157,10 @@
             <mxPoint x="740.1500000000001" y="410.00000000000006" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rZ3tqkPkwBDZJlSS5pZd-12" value="Delayed Job" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#D4E1F5;gradientColor=#ea6b66;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="rZ3tqkPkwBDZJlSS5pZd-12" value="Delayed Job" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;gradientColor=#ea6b66;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="310" y="179" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rZ3tqkPkwBDZJlSS5pZd-13" value="Action Cable/ WebSocket" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#D4E1F5;gradientColor=#d5739d;fillColor=#e6d0de;strokeColor=#996185;" parent="1" vertex="1">
+        <mxCell id="rZ3tqkPkwBDZJlSS5pZd-13" value="Action Cable/ WebSocket" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;gradientColor=#d5739d;fillColor=#e6d0de;strokeColor=#996185;" parent="1" vertex="1">
           <mxGeometry x="690" y="179" width="160" height="61" as="geometry" />
         </mxCell>
         <mxCell id="rZ3tqkPkwBDZJlSS5pZd-14" value="" style="endArrow=classic;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.113;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="39ve_CgXmUywYCEbx6uL-16" target="rZ3tqkPkwBDZJlSS5pZd-12" edge="1">
