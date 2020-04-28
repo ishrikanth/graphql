@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-28T12:51:34.853Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36" etag="KQzTQPbcO_apa4wxmusZ" version="13.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-28T12:54:47.534Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36" etag="Q86tgDvl-InM1ikSEuyf" version="13.0.2" type="github">
   <diagram id="xoZPzFlmaSp1hnfD2v14" name="Page-1">
     <mxGraphModel dx="1186" dy="669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -36,10 +36,10 @@
             <mxPoint y="-12" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="39ve_CgXmUywYCEbx6uL-6" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#9933FF;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;glass=1;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="280" y="120" width="610" height="470" as="geometry" />
+        <mxCell id="39ve_CgXmUywYCEbx6uL-6" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#9933FF;fillColor=#dae8fc;strokeColor=#6c8ebf;shadow=1;glass=1;strokeWidth=4;" parent="1" vertex="1">
+          <mxGeometry x="270" y="100" width="640" height="490" as="geometry" />
         </mxCell>
-        <mxCell id="rZ3tqkPkwBDZJlSS5pZd-38" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#D4E1F5;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" parent="1" vertex="1">
+        <mxCell id="rZ3tqkPkwBDZJlSS5pZd-38" value="" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#D4E1F5;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="290" y="130" width="590" height="280" as="geometry" />
         </mxCell>
         <mxCell id="39ve_CgXmUywYCEbx6uL-1" value="Postgresql" style="shape=datastore;whiteSpace=wrap;html=1;gradientColor=#ffa500;fillColor=#ffcd28;strokeColor=#d79b00;" parent="1" vertex="1">
@@ -157,10 +157,10 @@
             <mxPoint x="740.1500000000001" y="410.00000000000006" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rZ3tqkPkwBDZJlSS5pZd-12" value="Delayed Job" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;gradientColor=#ea6b66;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="rZ3tqkPkwBDZJlSS5pZd-12" value="Delayed Job" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;gradientColor=#ea6b66;fillColor=#f8cecc;strokeColor=#b85450;shadow=1;glass=1;" parent="1" vertex="1">
           <mxGeometry x="310" y="179" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rZ3tqkPkwBDZJlSS5pZd-13" value="Action Cable/ WebSocket" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;gradientColor=#d5739d;fillColor=#e6d0de;strokeColor=#996185;" parent="1" vertex="1">
+        <mxCell id="rZ3tqkPkwBDZJlSS5pZd-13" value="Action Cable/ WebSocket" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;gradientColor=#d5739d;fillColor=#e6d0de;strokeColor=#996185;shadow=1;glass=1;" parent="1" vertex="1">
           <mxGeometry x="690" y="179" width="160" height="61" as="geometry" />
         </mxCell>
         <mxCell id="rZ3tqkPkwBDZJlSS5pZd-14" value="" style="endArrow=classic;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.113;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="39ve_CgXmUywYCEbx6uL-16" target="rZ3tqkPkwBDZJlSS5pZd-12" edge="1">
