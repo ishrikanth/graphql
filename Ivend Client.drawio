@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-05-28T10:53:51.315Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="yQRiRZ17Fna9YtUP7Nau" version="13.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-05-28T11:06:36.310Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="fAR1lo1u2NpCLYq5y6qT" version="13.1.2" type="github">
   <diagram id="xoZPzFlmaSp1hnfD2v14" name="Page-1">
     <mxGraphModel dx="2032" dy="1769" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -260,8 +260,8 @@
             <mxPoint x="745.5100000000001" y="104.75" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PLzoxAE0oAlwpOkitxPc-5" value="" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/App_Service_Mobile_App.svg;" parent="1" vertex="1">
-          <mxGeometry x="-180" y="90" width="34" height="50" as="geometry" />
+        <mxCell id="PLzoxAE0oAlwpOkitxPc-5" value="Smart Store App" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/App_Service_Mobile_App.svg;" parent="1" vertex="1">
+          <mxGeometry x="-160" y="90" width="34" height="50" as="geometry" />
         </mxCell>
         <mxCell id="PLzoxAE0oAlwpOkitxPc-6" value="" style="endArrow=classic;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" parent="1" source="PLzoxAE0oAlwpOkitxPc-5" target="PLzoxAE0oAlwpOkitxPc-17" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
